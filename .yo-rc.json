@@ -14,7 +14,7 @@
     "uaaBaseName": "hera",
     "cacheProvider": "hazelcast",
     "enableHibernateCache": true,
-    "websocket": false,
+    "websocket": "spring-websocket",
     "databaseType": "sql",
     "devDatabaseType": "mysql",
     "prodDatabaseType": "mysql",
